@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="ECPro">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 10" modules="sttomysql">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\warehouse\sttomysql\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 11" modules="hive">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\warehouse\hive\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="bi">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\bi\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="warehouse">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\warehouse\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="collector">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\collector\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\common\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="log">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\collector\log\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 7" modules="flume">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\collector\flume\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 8" modules="sparksql">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\warehouse\sparksql\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 9" modules="sparkstreaming">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\ideaWorkspace\ECPro\warehouse\sparkstreaming\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>

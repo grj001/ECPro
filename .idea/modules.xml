@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ECPro.iml" filepath="$PROJECT_DIR$/ECPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bi/bi.iml" filepath="$PROJECT_DIR$/bi/bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/collector.iml" filepath="$PROJECT_DIR$/collector/collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/flume/flume.iml" filepath="$PROJECT_DIR$/collector/flume/flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/hive/hive.iml" filepath="$PROJECT_DIR$/warehouse/hive/hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/log/log.iml" filepath="$PROJECT_DIR$/collector/log/log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/sparksql/sparksql.iml" filepath="$PROJECT_DIR$/warehouse/sparksql/sparksql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/sparkstreaming/sparkstreaming.iml" filepath="$PROJECT_DIR$/warehouse/sparkstreaming/sparkstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/sttomysql/sttomysql.iml" filepath="$PROJECT_DIR$/warehouse/sttomysql/sttomysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/warehouse.iml" filepath="$PROJECT_DIR$/warehouse/warehouse.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bi" />
+        <module name="common" />
+        <module name="flume" />
+        <module name="hive" />
+        <module name="log" />
+        <module name="sparksql" />
+        <module name="sparkstreaming" />
+        <module name="sttomysql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bi" target="1.8" />
+      <module name="collector" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="ECPro" target="1.8" />
+      <module name="flume" target="1.8" />
+      <module name="hive" target="1.8" />
+      <module name="log" target="1.8" />
+      <module name="sparksql" target="1.8" />
+      <module name="sparkstreaming" target="1.8" />
+      <module name="sttomysql" target="1.8" />
+      <module name="warehouse" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
